@@ -1,0 +1,27 @@
+.Invitation{
+  padding: 10px;
+  margin: 50px;
+  border: 1px solid;
+  border-radius: 10px;
+  background-color: aqua;
+  max-width: 470px;
+  text-align: center;
+    
+}
+.btn-reserve{
+  text-align: center;
+
+}
+.button{
+  padding: 5px;
+  background-color:brown;
+  color:lawngreen;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.button:hover{
+  background-color: magenta;
+  transform: scale(1.10);
+
+}
